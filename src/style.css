@@ -1,9 +1,23 @@
+body {
+  background-color: #f8e8a6;
+}
+
 #croissant {
   max-width: 700px;
+  border-radius: 5px;
   display: block;
+  margin: 0 auto;
 }
 
 h1,
 p {
   text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
 }
